@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+fast_api_implentation.egg-info/PKG-INFO
+fast_api_implentation.egg-info/SOURCES.txt
+fast_api_implentation.egg-info/dependency_links.txt
+fast_api_implentation.egg-info/requires.txt
+fast_api_implentation.egg-info/top_level.txt
